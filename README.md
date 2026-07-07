@@ -11,6 +11,7 @@ Nazwa Skincare adalah toko skincare online dengan tampilan katalog digital (sing
 - Belanja skincare mudah dan cepat tanpa perlu install aplikasi — cukup buka halaman web.
 - Konfirmasi pesanan otomatis terkirim ke WhatsApp toko lengkap dengan nomor invoice, rincian belanja, dan metode pembayaran.
 - Pilihan pembayaran fleksibel: COD, QRIS, transfer bank (SeaBank), dan e-wallet (DANA).
+- ![NAX Preview](images/metode pembayaran.jpeg)
 - Pengalaman berbelanja yang menarik secara visual (animasi halus, pencarian produk real-time, filter kategori).
 
 ## 2. Target Market & Segmentasi Pelanggan
