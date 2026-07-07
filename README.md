@@ -78,15 +78,14 @@ Industri skincare lokal Indonesia tumbuh pesat, didorong tren *self-care* dan ke
 
 **Alur checkout saat ini:**
 1. Pelanggan menambahkan produk ke keranjang (cart) — kuantitas dapat diubah atau dihapus.
-  (images/fitur keranjang 1.jpeg)
 2. Pelanggan mengisi form data diri: nama, no. HP, alamat, dan (opsional) akun Instagram.
 3. Pelanggan memilih salah satu metode pembayaran:
    - **Cash/COD** — bayar saat barang diterima.
    - **QRIS** — menampilkan QR code untuk dipindai lewat GoPay/OVO/DANA/ShopeePay/m-Banking.
    - **SeaBank** — transfer manual ke rekening yang ditampilkan.
    - **DANA** — transfer manual ke nomor e-wallet yang ditampilkan.
-5. Sistem membuat nomor invoice otomatis dan menyusun ringkasan pesanan.
-6. Pesanan dikirim otomatis ke WhatsApp toko dalam format pesan terstruktur (invoice, tanggal, data pelanggan, rincian item, total, metode bayar).
+4. Sistem membuat nomor invoice otomatis dan menyusun ringkasan pesanan.
+5. Pesanan dikirim otomatis ke WhatsApp toko dalam format pesan terstruktur (invoice, tanggal, data pelanggan, rincian item, total, metode bayar).
 
 **Catatan simulasi payment gateway:**
 Payment gateway pada sistem ini bersifat **simulasi manual** (QRIS statis & rekening tujuan ditampilkan langsung), belum terintegrasi dengan payment gateway resmi (seperti Midtrans/Xendit/PayPal). 
